@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your actual hosted cover image path once uploaded to /images -->
-<img src="images/cover.png" alt="Tale of Qianzhou" width="480"/>
+<img src="TaleOfQianzhou" alt="Tale of Qianzhou" width="480"/>
 
 # Tale of Qianzhou
 
