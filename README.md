@@ -7,7 +7,7 @@
 
 *A realm with no rightful ruler — only whoever holds the leverage this season.*
 
-**[▶ Play on Voyage](https://voyage.io/PLACEHOLDER-LINK)**
+**[▶ Play on Voyage](https://voyage.io/world/HE9eFfjRUV_z/tale-of-qianzhou?share=true&published=true)**
 
 </div>
 
