@@ -19,7 +19,7 @@ No dynasty holds Qianzhou whole. No throne commands universal loyalty. It's not 
 
 Play a general, a merchant, a servant, a ruling-house scion, or a warlord building something from nothing. No magic, no monsters, no wuxia superhuman feats — just real people with real training, real fear, and real limits, in a Song-dynasty-inspired world where politics is the real battlefield.
 
-**[Read the full pitch on the Voyage listing →](https://voyage.io/PLACEHOLDER-LINK)**
+**[Read the full pitch on the Voyage listing →](https://voyage.io/world/HE9eFfjRUV_z/tale-of-qianzhou?share=true&published=true)**
 
 ---
 
@@ -37,8 +37,8 @@ Via the included **Compass Vantage** mode system:
 
 Both mods are also standalone-installable in your own worlds:
 
-- **[Compass Vantage](https://voyage.io/mods/PLACEHOLDER)** — game modes built on "the story always moves forward, only the direction changes"
-- **[Human First](https://voyage.io/mods/PLACEHOLDER)** — NPC intents where every action traces back to something specific to that character, never scene convenience
+- **[Compass Vantage](https://voyage.io/mod/4L5bkXTAIytJ/compass-vantage?share=true&published=true)** — game modes built on "the story always moves forward, only the direction changes"
+- **[Human First](https://voyage.io/mod/hAvvh509GUKe/human-first?share=true&published=true)** — NPC intents where every action traces back to something specific to that character, never scene convenience
 
 ---
 
