@@ -49,7 +49,7 @@ Both mods are also standalone-installable in your own worlds:
 
 ## 💬 Feedback & Bug Reports
 
-Found something broken, or have a suggestion? Open an [issue](../../issues) on this repo, or reach out at PLACEHOLDER-CONTACT.
+Found something broken, or have a suggestion? Open an [issue](https://github.com/NikolaiF90/Tale-of-Qianzhou/issues) on this repo, or message me on Discord (**PrinceF90**).
 
 ## 🗺️ About the world
 
