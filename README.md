@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Replace with your actual hosted cover image path once uploaded to /images -->
-<img src="TaleOfQianzhou.jpg" alt="Tale of Qianzhou" width="480"/>
+<img src="images/cover.png" alt="Tale of Qianzhou" width="480"/>
 
 # Tale of Qianzhou
 
 *A realm with no rightful ruler — only whoever holds the leverage this season.*
 
-**[▶ Play on Voyage](https://voyage.io/world/HE9eFfjRUV_z/tale-of-qianzhou?published=true)**
+**[▶ Play on Voyage](https://voyage.io/PLACEHOLDER-LINK)**
 
 </div>
 
@@ -18,6 +18,8 @@
 No dynasty holds Qianzhou whole. No throne commands universal loyalty. It's not a kingdom mid-collapse — it's a world that has simply always worked this way, and it doesn't need you to fix it, save it, or unify it. It just needs you to decide what you're willing to do to get what you want.
 
 Play a general, a merchant, a servant, a ruling-house scion, or a warlord building something from nothing. No magic, no monsters, no wuxia superhuman feats — just real people with real training, real fear, and real limits, in a Song-dynasty-inspired world where politics is the real battlefield.
+
+**[Read the full pitch on the Voyage listing →](https://voyage.io/PLACEHOLDER-LINK)**
 
 ---
 
@@ -35,14 +37,15 @@ Via the included **Compass Vantage** mode system:
 
 Both mods are also standalone-installable in your own worlds:
 
-- **[Compass Vantage](https://voyage.io/mod/4L5bkXTAIytJ/compass-vantage?share=true&published=true)** — game modes built on "the story always moves forward, only the direction changes"
-- **[Human First](https://voyage.io/mod/hAvvh509GUKe/human-first?share=true&published=true)** — NPC intents where every action traces back to something specific to that character, never scene convenience
+- **[Compass Vantage](https://voyage.io/mods/PLACEHOLDER)** — game modes built on "the story always moves forward, only the direction changes"
+- **[Human First](https://voyage.io/mods/PLACEHOLDER)** — NPC intents where every action traces back to something specific to that character, never scene convenience
 
 ---
 
-## 📋 Patch Notes
+## 📋 Patch Notes & Updates
 
-See **[CHANGELOG.md](CHANGELOG.md)** for update history.
+- **[CHANGELOG.md](CHANGELOG.md)** — summary of what's changed, version by version
+- **[Updates folder](updates/)** — if your save needs a manual update, start here for the latest version's instructions
 
 ## 💬 Feedback & Bug Reports
 
